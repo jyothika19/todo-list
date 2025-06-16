@@ -54,7 +54,3 @@ Project Description
 - Completed task title  
 ```
 
-### See also
-
-- [An example of TODO.md](TODO.md)
-- [Vscode Kanban Extension](https://bit.ly/2JcrUWJ)
